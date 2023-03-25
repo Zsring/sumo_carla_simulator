@@ -1,4 +1,4 @@
-# Dense reinforcement learning for safety validation of autonomous vehicles
+# My Project 
 
 <!-- ABOUT THE PROJECT -->
 # Introduction of the Project
